@@ -12,36 +12,36 @@ div {
   text-align: center;
 }
 
-.small {
-  padding: 0.4em;
-  background-color: #666;
+.btn {
+  border: 3px solid #333;
+  padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  color: #fff;
-  font-size: 1.125rem;
   border-radius: 8px;
+  color: #fff;
+  background-color: #333;
+  font-size: 1.125rem;
+  display: inline-block;
 }
 
-.subtle {
-  padding: 0.4em;
+.btn-small {
+  font-size: 0.875rem;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn-subtle {
   background-color: #ccc;
-  text-decoration: none;
-  color: #fff;
-  font-size: 1.125rem;
-  border-radius: 8px;
+  border-color: #ccc;
 }
 
-.ghost {
-  padding: 0.4em;
-  background-color: #fff;
-  text-decoration: none;
-  color: #000;
-  border-width: thick;
+.btn-ghost {
+  background-color: transparent;
+  color: #333;
 }
 
-.warning {
-  padding: 0.4em;
+.btn-warning {
   background-color: #f33;
-  text-decoration: none;
-  color: #fff;
-  border-radius: 8px;
+  border-color: #f33;
 }
