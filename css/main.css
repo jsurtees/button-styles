@@ -11,3 +11,37 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.small {
+  padding: 0.4em;
+  background-color: #666;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125rem;
+  border-radius: 8px;
+}
+
+.subtle {
+  padding: 0.4em;
+  background-color: #ccc;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125rem;
+  border-radius: 8px;
+}
+
+.ghost {
+  padding: 0.4em;
+  background-color: #fff;
+  text-decoration: none;
+  color: #000;
+  border-width: thick;
+}
+
+.warning {
+  padding: 0.4em;
+  background-color: #f33;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 8px;
+}
