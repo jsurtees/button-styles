@@ -45,3 +45,23 @@ div {
   background-color: #f33;
   border-color: #f33;
 }
+
+.btn:hover {
+  background-color: #933;
+}
+
+.btn-small:hover {
+  background-color: #933;
+}
+
+.btn-subtle:hover {
+  background-color: #933;
+}
+
+.btn-ghost:hover {
+  background-color: #933;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+}
